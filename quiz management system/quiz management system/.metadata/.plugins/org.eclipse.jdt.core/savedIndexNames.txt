@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+F:\demo\src\com\example\online-quiz-application-in-java-with-jdbc-using-swing-login-registration-timer-master\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
